@@ -1,12 +1,21 @@
-Website ini merupakan aplikasi manajemen pegawai berbasis Laravel yang dirancang untuk menampilkan dan mengelola data karyawan secara sederhana.
-Pengguna dapat melakukan login menggunakan akun tertentu, lalu mengakses dashboard, profil pengguna, dan halaman pengelolaan pegawai yang dilengkapi fitur pagination untuk navigasi data.
+<h1>Aplikasi Manajemen Pegawai</h1>
 
-Aplikasi ini dibuat dengan:
+<p>
+  Website ini merupakan <strong>aplikasi manajemen pegawai</strong> berbasis <strong>Laravel</strong> 
+  yang dirancang untuk menampilkan dan mengelola data karyawan secara sederhana.
+</p>
 
-Laravel (PHP Framework) untuk logika backend dan routing.
+<p>
+  Pengguna dapat melakukan <strong>login</strong> menggunakan akun yang telah ditentukan, 
+  kemudian mengakses halaman <em>Dashboard</em>, <em>Profil Pengguna</em>, dan 
+  <em>Pengelolaan Pegawai</em> yang menampilkan daftar pegawai dengan fitur 
+  <strong>pagination</strong> untuk navigasi data.
+</p>
 
-Blade Template Engine untuk pengaturan tampilan secara dinamis.
-
-Tailwind CSS untuk desain yang modern dan responsif.
-
-Menggunakan array data statis sebagai sumber data pegawai dan pengguna (tanpa database).
+<h2>Aplikasi ini dibuat dengan:</h2>
+<ul>
+  <li><strong>Laravel (PHP Framework)</strong> – untuk logika backend dan routing</li>
+  <li><strong>Blade Template Engine</strong> – untuk pengaturan tampilan secara dinamis</li>
+  <li><strong>Tailwind CSS</strong> – untuk desain antarmuka yang modern dan responsif</li>
+  <li><strong>Array Data Statis</strong> – digunakan sebagai sumber data pegawai dan pengguna (tanpa database)</li>
+</ul>
